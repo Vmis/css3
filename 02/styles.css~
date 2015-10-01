@@ -1,0 +1,37 @@
+html
+	{
+	padding-top: 25px;
+	background-image: url(images/bg_page.png);
+	}
+body
+	{
+	width: 80%;
+	padding: 20px;	
+	margin: 0 auto;
+	box-shadow; 10px 10px 10px rgba(0,0,0,.5);
+	background-color: #E1EDEB;
+	}
+h1
+	{
+	color: #166666;	
+	font-size: 3em;
+	margin: 0;
+	font-family: 'Gravitas One', 'Arial Black',serif;
+	font-weight: normal;
+	}
+h2
+	{
+	color: #266666;	
+	font-size: 1.5em;
+	margin: 0;	
+	}
+
+p
+
+	font-family: "Palatio Linotype", Baskerville, serif;
+	line-height: 150%;
+	margin-top: 10px;	
+	margin-left: 80px;
+	
+	
+	}
