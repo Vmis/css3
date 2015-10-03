@@ -36,7 +36,7 @@ h1, h2, h3 {
 	margin: 0 auto;
 	width: 760px;
 	}
-h2+p {
+h1+p {
 	color:#FF6600;
 	font-size: 1.2em;
 	line-height: 140%;
