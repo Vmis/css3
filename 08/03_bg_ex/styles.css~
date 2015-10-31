@@ -56,9 +56,9 @@ table {
 	margin-right: 600px;
 	margin-left: 20px;
 	
-	background: url(images/scroll_top.jpg) no-repeat center top,
-		url(images/scroll_bottom.jpg) no-repeat center bottom,
-		url(images/scroll_middle.jpg) repeat-y center top;
+	background: url(images/scroll_top.jpg) no-repeat center bottom;
+		url(images/scroll_bottom.jpg) no-repeat center bottom;
+		/*url(images/scroll_middle.jpg) repeat-y center top;*/
 	margin-top: 115px;
 	padding: 70px 0 60px 0;
 }

@@ -73,7 +73,7 @@ p {
 	border-top: 1px dashed #999;
 	clear: both;
 }
-/*figure{ 
+figure{ 
 	float: left;
 	width: 222px;
 	margin: 15px 10px 5px 10px;
