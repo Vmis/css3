@@ -25,9 +25,16 @@
 <h1>CSS3: The Missing Manual</h1>
 </header>
 <div class="contentWrapper"> 
-<div class="columntWrapper"> 
-
-
+<!-- first sidebar goes here -->
+<aside class="sidebar1">
+  <h2>Sidebar 1</h2>
+  <p>Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante quis felis fringilla condimentum. Aenean orci ante, venenatis non adipiscing vitae, fringilla et neque. In pharetra, eros imperdiet luctus imperdiet, nunc sem pharetra mi, vel faucibus elit risus id tortor.  </p>
+  <p><img src="imgs/gator.jpg" alt="Gator" width="300" height="200"></p>
+  <h3>Secondary Header</h3>
+  <p>Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante quis felis fringilla condimentum.  </p>
+  <h3>Secondary Header</h3>
+  <p>Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante quis felis fringilla condimentum. </p>
+</aside>
 <!-- main content goes here -->
 <article class="main">
   <h2>Article Title</h2>
@@ -39,17 +46,6 @@
   <h3>Subheading</h3>
   <p>Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante quis felis fringilla condimentum. Aenean orci ante, venenatis non adipiscing vitae, fringilla et neque. In pharetra, eros imperdiet luctus imperdiet, nunc sem pharetra mi, vel faucibus elit risus id tortor. Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante quis felis fringilla condimentum. Aenean orci ante, venenatis non adipiscing vitae, fringilla et neque. In pharetra, eros imperdiet luctus imperdiet, nunc sem pharetra mi, vel faucibus elit risus id tortor. Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante quis felis fringilla condimentum. Aenean orci ante, venenatis non adipiscing vitae, fringilla et neque. In pharetra, eros imperdiet luctus imperdiet, nunc sem pharetra mi, vel faucibus elit risus id tortor. Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante quis felis fringilla condimentum. Aenean orci ante, venenatis non adipiscing vitae, fringilla et neque. In pharetra, eros imperdiet luctus imperdiet, nunc sem pharetra mi, vel faucibus elit risus id tor</p>
 </article>
-
-<!-- first sidebar goes here -->
-<aside class="sidebar1">
-  <h2>Sidebar 1</h2>
-  <p>Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante quis felis fringilla condimentum. Aenean orci ante, venenatis non adipiscing vitae, fringilla et neque. In pharetra, eros imperdiet luctus imperdiet, nunc sem pharetra mi, vel faucibus elit risus id tortor.  </p>
-  <p><img src="imgs/gator.jpg" alt="Gator" width="300" height="200"></p>
-  <h3>Secondary Header</h3>
-  <p>Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante quis felis fringilla condimentum.  </p>
-  <h3>Secondary Header</h3>
-  <p>Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante quis felis fringilla condimentum. </p>
-</aside> </div>
 <!-- second sidebar goes here -->
 <aside class="sidebar2">
 <h2>Sidebar 2 </h2>
