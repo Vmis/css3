@@ -1,0 +1,83 @@
+   <style>
+        div .osnova{
+            display: inline-block;
+            margin: 0 10px 10px 10px;
+            color: #000000;
+            float: left;
+            width: 100%;
+
+        }
+        div .left {
+            display: inline-block;
+            width: 250px;
+            float: left;
+            background-color: #CDE6FF;
+            margin: 0 10px 10px 10px;
+        }
+        div .center {
+
+            display: inline-block;
+            width: 250px;
+            float: left;
+            background-color: #CDE6FF;
+            margin: 0 10px 10px 10px;
+        }
+        div .right {
+
+            display: inline-block;
+            width: 250px;
+            float: left;
+            background-color: #CDE6FF;
+            margin: 0 10px 10px 10px;
+        }
+        .osnova li {
+            margin-left: 20px;
+        }
+        .osnova p {  text-align: center;
+                    font-size: 1.4em;}
+    </style>
+
+</head>
+<body>
+<div class="osnova">
+    <div class="left">
+       <p> <a href="main.aspx?guid=23201">2013-2014 учебный год</a></p>
+        <p><a href="main.aspx?guid=23201"><img src="sm_full.aspx?guid=7713" align="middle" height="150" /></a></p>
+        <li><a href="main.aspx?guid=23231">&nbsp;Не прожигай свою жизнь</a></li>
+        <li><a href="main.aspx?guid=23271">Экскурсия в лес</a></li>
+        <li><a href="main.aspx?guid=23291">&nbsp;День здоровья</a></li>
+        <li><a href="main.aspx?guid=23301">День матери</a></li>
+        <li><a href="main.aspx?guid=23311">&nbsp;ММО учителей начальных классов</a></li>
+        <li><a href="main.aspx?guid=22991">Школьный лагерь</a></li>
+        <li><a href="main.aspx?guid=1651">Защита тем по самообразованию</a></li>
+        <li><a href="main.aspx?guid=1641">Учителя&nbsp;</a></li>
+        <li><a href="main.aspx?guid=23341">В свободное время</a></li>
+        <li><a href="main.aspx?guid=23361">Выпускной</a></li>
+    </div>
+    <div class="center">
+        <p> <a href="main.aspx?guid=23211">2014-2015 учебный год</a></p>
+        <p> <a href="main.aspx?guid=23211"><img src="sm_full.aspx?guid=8643" align="middle" height="150" /></a></p>
+        <li><a href="main.aspx?guid=23041">Масленица</a></li>
+        <li><a href="main.aspx?guid=23031">День снега</a></li>
+        <li><a href="main.aspx?guid=23401">Каникулы</a></li>
+        <li><a href="main.aspx?guid=23431">Кирмаш</a></li>
+        <li><a href="main.aspx?guid=33521">Новогодний утренник</a></li>
+        <li><a href="main.aspx?guid=33591">Юный герой-антифашист</a></li>
+        <li><a href="main.aspx?guid=33651">23 февраля</a></li>
+        <li><a href="main.aspx?guid=33781">Лагерь "Весна"</a></li>
+        <li><a href="main.aspx?guid=33791">Профориентация</a></li>
+        <li><a href="main.aspx?guid=33801">ЮИД</a></li>
+        <li><a href="main.aspx?guid=33811">9 Мая</a></li>
+        <li><a href="main.aspx?guid=33821">Последний звонок</a></li>
+        <li><a href="main.aspx?guid=33831">Оздоровительный лагерь</a></li>
+    </div>
+    <div class="right">
+        <p> <a href="main.aspx?guid=33861">2015-2016 учебный год</a></p>
+        <p> <a href="main.aspx?guid=33861"><img src="sm_full.aspx?guid=7353" align="middle" height="150" /></a></p>
+        <li><a href="main.aspx?guid=33871">Родительское собрание</a></li>
+        <li><a href="main.aspx?guid=33881">Своими руками</a></li>
+        <li><a href="main.aspx?guid=33891">Праздник овощей</a></li>
+        <li><a href="main.aspx?guid=33901">Оздоровительный лагерь</a></li>
+    </div>
+
+</div>
